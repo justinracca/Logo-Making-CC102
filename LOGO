@@ -1,0 +1,21 @@
+#include <iostream>
+
+int main() {
+    std::cout << "  *   .       *          .        .        *       .        .\n";
+    std::cout << "             .       *          .       .         .         .\n";
+    std::cout << ".        *      .        .       *        .        .       *.\n";
+    std::cout << " .    .       .        .       .         .        .    *    .\n";
+    std::cout << "JJJJJJJJ   UU    UU  SSSSSSSS  TTTTTTTT  IIIIIIII  NN      NN\n";
+    std::cout << "JJJJJJJJ   UU    UU  SS    SS  TT TT TT  II II II  NNN     NN\n";
+    std::cout << "    JJJ    UU    UU  SS           TT        II     NNNN    NN\n";
+    std::cout << "    JJJ    UU    UU   SSSSSS      TT        II     NN NNN  NN\n";
+    std::cout << "    JJJ    UU    UU   SSSSSS      TT        II     NN  NNN NN\n";
+    std::cout << "JJ  JJJ    UU    UU        SS     TT        II     NN    NNNN\n";
+    std::cout << "JJJJJJJ    UUU  UUU  SS    SS     TT     II II II  NN     NNN\n";
+    std::cout << " JJJJ       UUUUUU   SSSSSSSS     TT     IIIIIIII  NN      NN\n";
+       std::cout << "  *   .       *          .        .        *       .      \n";
+    std::cout << "             .       *          .       .         .         .\n";
+    std::cout << ".        *      .        .       *        .        .       *.\n";
+    std::cout << " .    .       .        .       .         .        .    *    .\n";
+    return 0; 
+}
